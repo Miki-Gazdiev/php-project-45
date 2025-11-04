@@ -2,8 +2,12 @@
     "name": "hexlet/code",
     "autoload": {
         "psr-4": {
-            "Hexlet\\Code\\": "src/"
-        }
+            "Hexlet\\Code\\": "src/",
+	    "BrainGames\\": "src/"
+        },
+	"files": [
+            "src/Cli.php"
+        ]
     },
     "authors": [
         {
@@ -11,5 +15,8 @@
             "email": "mikigazdiev@yandex.ru"
         }
     ],
-    "require": {}
+    "require": 
+    {
+        "wp-cli/php-cli-tools": "^0.12.6"
+    }
 }
