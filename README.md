@@ -6,3 +6,4 @@
 [![Actions Status](https://github.com/Miki-Gazdiev/php-project-45/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Miki-Gazdiev/php-project-45/actions)
 https://asciinema.org/a/k0mQ8ta0F3pFMszIsCMwDp2Tm brain-even
 https://asciinema.org/a/YRhKQRfCwz9XTtSc4Pb3XkUvJ brain-calc
+https://asciinema.org/a/aUihIXt1n30HOvx7BNa1I6F9x brain-gcd
