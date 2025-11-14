@@ -32,7 +32,5 @@ function calculate(int $num1, int $num2, string $operator): int
             return $num1 - $num2;
         case '*':
             return $num1 * $num2;
-        default:
-            throw new \InvalidArgumentException("Unknown operator: {$operator}");
     }
 }
