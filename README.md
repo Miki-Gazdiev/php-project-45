@@ -7,19 +7,24 @@
 ### Brain Even
 Определите, является ли число чётным.
 
-[![Asciicast](https://asciinema.org/a/k0mQ8ta0F3pFMszIsCMwDp2Tm.svg)](https://asciinema.org/a/k0mQ8ta0F3pFMszIsCMwDp2Tm)
+https://asciinema.org/a/k0mQ8ta0F3pFMszIsCMwDp2Tm
 
 ### Brain Calc
 Решите простую арифметическую задачу.
 
-[![Asciicast](https://asciinema.org/a/YRhKQRfCwz9XTtSc4Pb3XkUvJ.svg)](https://asciinema.org/a/YRhKQRfCwz9XTtSc4Pb3XkUvJ)
+https://asciinema.org/a/YRhKQRfCwz9XTtSc4Pb3XkUvJ
 
 ### Brain GCD
 Найдите наибольший общий делитель двух чисел.
 
-[![Asciicast](https://asciinema.org/a/aUihIXt1n30HOvx7BNa1I6F9x.svg)](https://asciinema.org/a/aUihIXt1n30HOvx7BNa1I6F9x)
+https://asciinema.org/a/aUihIXt1n30HOvx7BNa1I6F9x
 
 ### Brain Progression
 Найдите пропущенное число в арифметической прогрессии.
 
-[![Asciicast](https://asciinema.org/a/cg6oxoD77vqeE7XQjzy7wdd8V.svg)](https://asciinema.org/a/cg6oxoD77vqeE7XQjzy7wdd8V)
+https://asciinema.org/a/cg6oxoD77vqeE7XQjzy7wdd8V
+
+### Brain Prime
+Определите, является ли число простым.
+
+https://asciinema.org/a/yf4Bu2hxXeUUmwWuOIOm9c9G4
