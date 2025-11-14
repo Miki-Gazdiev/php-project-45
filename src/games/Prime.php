@@ -10,7 +10,7 @@ function getQuestionAndAnswer() : array
 {
 	$question = rand(1, 100);
 	$correctAnswer = isPrime($question) ? 'yes' : 'no';
-	return [$question, $correctAnswer];
+	return [$question, (string)$correctAnswer];
 }
 
 function isPrime(int $number) : bool
