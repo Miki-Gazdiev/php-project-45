@@ -11,7 +11,7 @@ function findGcd(int $a, int $b): int
     if ($b === 0) {
         return $a;
     }
-    while ($b != 0) {
+    while ($b !== 0) {
         $temp = $b;
         $b = $a % $b;
         $a = $temp;
