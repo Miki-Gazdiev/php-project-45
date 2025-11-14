@@ -3,8 +3,4 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use function BrainGames\Cli\welcome;
-use function BrainGames\Even\runGame;
-
-$userName = welcome();
-runGame($userName);
+\BrainGames\Games\Even\run();
