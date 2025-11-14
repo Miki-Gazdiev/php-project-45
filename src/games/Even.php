@@ -14,7 +14,7 @@ function getQuestionAndAnswer(): array
 {
     $number = rand(1, 100);
     $correctAnswer = isEven($number) ? 'yes' : 'no';
-    return [$number, (string)$correctAnswer];
+    return [(string)$number, $correctAnswer];
 }
 
 function run(): void
