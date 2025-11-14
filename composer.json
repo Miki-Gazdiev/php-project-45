@@ -10,7 +10,8 @@
 	    "src/Even.php",
 	    "src/games/Calc.php",
 	    "src/Engine.php",
-	    "src/games/Gcd.php"
+	    "src/games/Gcd.php",
+	    "src/games/Progression.php"
         ]
     },
     "authors": [
@@ -27,6 +28,7 @@
          "bin/brain-games",
          "bin/brain-even",
 	 "bin/brain-calc",
-	 "bin/brain-gcd"
+	 "bin/brain-gcd",
+	 "bin/brain-progression"
     ]
 }
