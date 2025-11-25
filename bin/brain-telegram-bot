@@ -1,0 +1,18 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/../bot.php';
+
+// Токен берется из переменных окружения
+$bot_token = getenv('TELEGRAM_BOT_TOKEN');
+$bot_username = getenv('TELEGRAM_BOT_USERNAME');
+
+if (!$bot_token || !$bot_username) {
+    echo "Error: Please set TELEGRAM_BOT_TOKEN and TELEGRAM_BOT_USERNAME environment variables\n";
+    exit(1);
+}
+
+$bot = new BrainGamesBot($bot_token, $bot_username);
+echo "Brain Games Telegram Bot started...\n";
+$bot->runLongPolling();

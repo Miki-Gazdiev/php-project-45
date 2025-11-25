@@ -23,7 +23,8 @@
     ],
     "require": 
     {
-        "wp-cli/php-cli-tools": "^0.12.6"
+        "wp-cli/php-cli-tools": "^0.12.6",
+	 "longman/telegram-bot": "^0.83.0"
     },
     "bin": [
          "bin/brain-games",
